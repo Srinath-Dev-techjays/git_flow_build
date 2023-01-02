@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
+
         Toast.makeText(this,"Github actions",Toast.LENGTH_SHORT).show()
     }
 }
